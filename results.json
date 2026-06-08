@@ -1,0 +1,7 @@
+{
+    "ItemCF_RMSE": 1.0062,
+    "SVD_RMSE": 0.9403,
+    "Hybrid_RMSE": 0.9385,
+    "SVD_MAP10": 0.7347,
+    "Hybrid_MAP10": 0.735
+}
