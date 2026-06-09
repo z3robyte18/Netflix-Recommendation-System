@@ -389,10 +389,20 @@ streamlit run app.py
 - Built and deployed an interactive Streamlit dashboard
 
 
-#  Author
+#  Author Details
 
-**Himani**  
-BS-MS , IIT Roorkee
+- **Name:** Himani Rohaj
+- **Program:** BS-MS (Mathematics and Computing), IIT Roorkee
+- **Project Type:** Machine Learning + Recommendation Systems + Web Application
+- **GitHub:** https://github.com/z3robyte18
 
-GitHub: https://github.com/z3robyte18
 
+---
+
+#  Conclusion
+
+This project demonstrates the design and implementation of a hybrid movie recommendation system using Item-Based Collaborative Filtering and Singular Value Decomposition (SVD) on the Netflix Prize dataset. By combining neighborhood-based recommendations with latent factor modeling, the hybrid approach achieved superior performance with an RMSE of **0.9385** and a MAP@10 of **0.7350**.
+
+The project also includes explainable recommendations and a deployed Streamlit dashboard, making the system both effective and user-friendly. The results highlight the advantages of hybrid recommendation systems in improving recommendation accuracy and ranking quality.
+
+---
